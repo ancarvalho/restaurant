@@ -1,0 +1,27 @@
+========= PLANEJAMENTO BÁSICO =========
+
+# FASE INICIAL - PARTE 1
+	1. Criar um projeto no github (Andrey) (OK)
+	2. Preparar o ambiente
+	3. Iniciar o aprendizado (overview)
+	4. Iniciar a construção
+	5. Salvar no git
+----
+
+# FASE INICIAL - PARTE 2
+	# Solução em Docker
+	1. Migrar a solução para Docker (só a aplicação)
+	2. Configurar um ambiente de produção local
+----
+
+# FASE INTERMEDIÁRIA
+	# Forma de trabalho (scrum)
+	1. Definir as atividades (backlog) e branchs no git
+	2. Construir
+	3. Salvar no git
+	4. Publicar em ambiente de produção
+	----
+
+# FASE FINAL
+	1. Configurar um ambiente de produção na web
+	2. Publicar a aplicação em produção (Nuvem)
